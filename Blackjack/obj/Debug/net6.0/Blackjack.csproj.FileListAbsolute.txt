@@ -1,0 +1,84 @@
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack\Blackjack\bin\Debug\net6.0\Blackjack.exe
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack\Blackjack\bin\Debug\net6.0\Blackjack.deps.json
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack\Blackjack\bin\Debug\net6.0\Blackjack.runtimeconfig.json
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack\Blackjack\bin\Debug\net6.0\Blackjack.dll
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack\Blackjack\bin\Debug\net6.0\Blackjack.pdb
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack\Blackjack\obj\Debug\net6.0\Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack\Blackjack\obj\Debug\net6.0\Blackjack.AssemblyInfoInputs.cache
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack\Blackjack\obj\Debug\net6.0\Blackjack.AssemblyInfo.cs
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack\Blackjack\obj\Debug\net6.0\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack\Blackjack\obj\Debug\net6.0\Blackjack.dll
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack\Blackjack\obj\Debug\net6.0\refint\Blackjack.dll
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack\Blackjack\obj\Debug\net6.0\Blackjack.pdb
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack\Blackjack\obj\Debug\net6.0\Blackjack.genruntimeconfig.cache
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack\Blackjack\obj\Debug\net6.0\ref\Blackjack.dll
+C:\Users\Felix\Downloads\Blackjack\Blackjack\Blackjack\bin\Debug\net6.0\Blackjack.exe
+C:\Users\Felix\Downloads\Blackjack\Blackjack\Blackjack\bin\Debug\net6.0\Blackjack.deps.json
+C:\Users\Felix\Downloads\Blackjack\Blackjack\Blackjack\bin\Debug\net6.0\Blackjack.runtimeconfig.json
+C:\Users\Felix\Downloads\Blackjack\Blackjack\Blackjack\bin\Debug\net6.0\Blackjack.dll
+C:\Users\Felix\Downloads\Blackjack\Blackjack\Blackjack\bin\Debug\net6.0\Blackjack.pdb
+C:\Users\Felix\Downloads\Blackjack\Blackjack\Blackjack\obj\Debug\net6.0\Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felix\Downloads\Blackjack\Blackjack\Blackjack\obj\Debug\net6.0\Blackjack.AssemblyInfoInputs.cache
+C:\Users\Felix\Downloads\Blackjack\Blackjack\Blackjack\obj\Debug\net6.0\Blackjack.AssemblyInfo.cs
+C:\Users\Felix\Downloads\Blackjack\Blackjack\Blackjack\obj\Debug\net6.0\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\Felix\Downloads\Blackjack\Blackjack\Blackjack\obj\Debug\net6.0\Blackjack.dll
+C:\Users\Felix\Downloads\Blackjack\Blackjack\Blackjack\obj\Debug\net6.0\refint\Blackjack.dll
+C:\Users\Felix\Downloads\Blackjack\Blackjack\Blackjack\obj\Debug\net6.0\Blackjack.pdb
+C:\Users\Felix\Downloads\Blackjack\Blackjack\Blackjack\obj\Debug\net6.0\Blackjack.genruntimeconfig.cache
+C:\Users\Felix\Downloads\Blackjack\Blackjack\Blackjack\obj\Debug\net6.0\ref\Blackjack.dll
+C:\Users\Felix\Downloads\Blackjack\Blackjack 15 11\Blackjack\bin\Debug\net6.0\Blackjack.exe
+C:\Users\Felix\Downloads\Blackjack\Blackjack 15 11\Blackjack\bin\Debug\net6.0\Blackjack.deps.json
+C:\Users\Felix\Downloads\Blackjack\Blackjack 15 11\Blackjack\bin\Debug\net6.0\Blackjack.runtimeconfig.json
+C:\Users\Felix\Downloads\Blackjack\Blackjack 15 11\Blackjack\bin\Debug\net6.0\Blackjack.dll
+C:\Users\Felix\Downloads\Blackjack\Blackjack 15 11\Blackjack\bin\Debug\net6.0\Blackjack.pdb
+C:\Users\Felix\Downloads\Blackjack\Blackjack 15 11\Blackjack\obj\Debug\net6.0\Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felix\Downloads\Blackjack\Blackjack 15 11\Blackjack\obj\Debug\net6.0\Blackjack.AssemblyInfoInputs.cache
+C:\Users\Felix\Downloads\Blackjack\Blackjack 15 11\Blackjack\obj\Debug\net6.0\Blackjack.AssemblyInfo.cs
+C:\Users\Felix\Downloads\Blackjack\Blackjack 15 11\Blackjack\obj\Debug\net6.0\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\Felix\Downloads\Blackjack\Blackjack 15 11\Blackjack\obj\Debug\net6.0\Blackjack.dll
+C:\Users\Felix\Downloads\Blackjack\Blackjack 15 11\Blackjack\obj\Debug\net6.0\refint\Blackjack.dll
+C:\Users\Felix\Downloads\Blackjack\Blackjack 15 11\Blackjack\obj\Debug\net6.0\Blackjack.pdb
+C:\Users\Felix\Downloads\Blackjack\Blackjack 15 11\Blackjack\obj\Debug\net6.0\Blackjack.genruntimeconfig.cache
+C:\Users\Felix\Downloads\Blackjack\Blackjack 15 11\Blackjack\obj\Debug\net6.0\ref\Blackjack.dll
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack 16 11\Blackjack\bin\Debug\net6.0\Blackjack.exe
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack 16 11\Blackjack\bin\Debug\net6.0\Blackjack.deps.json
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack 16 11\Blackjack\bin\Debug\net6.0\Blackjack.runtimeconfig.json
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack 16 11\Blackjack\bin\Debug\net6.0\Blackjack.dll
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack 16 11\Blackjack\bin\Debug\net6.0\Blackjack.pdb
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack 16 11\Blackjack\obj\Debug\net6.0\Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack 16 11\Blackjack\obj\Debug\net6.0\Blackjack.AssemblyInfoInputs.cache
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack 16 11\Blackjack\obj\Debug\net6.0\Blackjack.AssemblyInfo.cs
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack 16 11\Blackjack\obj\Debug\net6.0\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack 16 11\Blackjack\obj\Debug\net6.0\Blackjack.dll
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack 16 11\Blackjack\obj\Debug\net6.0\refint\Blackjack.dll
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack 16 11\Blackjack\obj\Debug\net6.0\Blackjack.pdb
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack 16 11\Blackjack\obj\Debug\net6.0\Blackjack.genruntimeconfig.cache
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack 16 11\Blackjack\obj\Debug\net6.0\ref\Blackjack.dll
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack klar\Blackjack\bin\Debug\net6.0\Blackjack.exe
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack klar\Blackjack\bin\Debug\net6.0\Blackjack.deps.json
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack klar\Blackjack\bin\Debug\net6.0\Blackjack.runtimeconfig.json
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack klar\Blackjack\bin\Debug\net6.0\Blackjack.dll
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack klar\Blackjack\bin\Debug\net6.0\Blackjack.pdb
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack klar\Blackjack\obj\Debug\net6.0\Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack klar\Blackjack\obj\Debug\net6.0\Blackjack.AssemblyInfoInputs.cache
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack klar\Blackjack\obj\Debug\net6.0\Blackjack.AssemblyInfo.cs
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack klar\Blackjack\obj\Debug\net6.0\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack klar\Blackjack\obj\Debug\net6.0\Blackjack.dll
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack klar\Blackjack\obj\Debug\net6.0\refint\Blackjack.dll
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack klar\Blackjack\obj\Debug\net6.0\Blackjack.pdb
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack klar\Blackjack\obj\Debug\net6.0\Blackjack.genruntimeconfig.cache
+C:\Users\fwa0124\OneDrive - Skellefteå kommun\programering 1\c#\Blackjack klar\Blackjack\obj\Debug\net6.0\ref\Blackjack.dll
+C:\Users\fwa0124\source\repos\blackjack\Blackjack\bin\Debug\net6.0\Blackjack.exe
+C:\Users\fwa0124\source\repos\blackjack\Blackjack\bin\Debug\net6.0\Blackjack.deps.json
+C:\Users\fwa0124\source\repos\blackjack\Blackjack\bin\Debug\net6.0\Blackjack.runtimeconfig.json
+C:\Users\fwa0124\source\repos\blackjack\Blackjack\bin\Debug\net6.0\Blackjack.dll
+C:\Users\fwa0124\source\repos\blackjack\Blackjack\bin\Debug\net6.0\Blackjack.pdb
+C:\Users\fwa0124\source\repos\blackjack\Blackjack\obj\Debug\net6.0\Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fwa0124\source\repos\blackjack\Blackjack\obj\Debug\net6.0\Blackjack.AssemblyInfoInputs.cache
+C:\Users\fwa0124\source\repos\blackjack\Blackjack\obj\Debug\net6.0\Blackjack.AssemblyInfo.cs
+C:\Users\fwa0124\source\repos\blackjack\Blackjack\obj\Debug\net6.0\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\fwa0124\source\repos\blackjack\Blackjack\obj\Debug\net6.0\Blackjack.dll
+C:\Users\fwa0124\source\repos\blackjack\Blackjack\obj\Debug\net6.0\refint\Blackjack.dll
+C:\Users\fwa0124\source\repos\blackjack\Blackjack\obj\Debug\net6.0\Blackjack.pdb
+C:\Users\fwa0124\source\repos\blackjack\Blackjack\obj\Debug\net6.0\Blackjack.genruntimeconfig.cache
+C:\Users\fwa0124\source\repos\blackjack\Blackjack\obj\Debug\net6.0\ref\Blackjack.dll
